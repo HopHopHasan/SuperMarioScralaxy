@@ -1,1 +1,0 @@
-from around ~v0.6.0 the game started crashing during loading in scratch??
