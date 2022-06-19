@@ -4,4 +4,4 @@ Easy viewing of files for SUPER MARIO SCRALAXY, a fangame game on Scratch.
 Studio - https://scratch.mit.edu/studios/4049336/
 
 ## Turbowarp Addons
-See the `turbowarp-addon-setting.json` file for my recommended settings that you can import into the Turbowarp application/website.
+See the `turbowarp-addon-setting.json` file for my recommended settings that you can import into the [Turbowarp](https://desktop.turbowarp.org/) application/website.
