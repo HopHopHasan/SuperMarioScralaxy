@@ -21,7 +21,7 @@ Studio - https://scratch.mit.edu/studios/4049336/
 
 -partners you can purchase with coins (abilities)
 
--hall of fame purchase
+-hall of fame room purchases
 
 -60FPS mode?
 
