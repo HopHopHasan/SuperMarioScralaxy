@@ -7,30 +7,49 @@ Studio - https://scratch.mit.edu/studios/4049336/
 
 IDEAS:
 -MOVE CHANGELOG TO SETTINGS MENU
+
 -WEIGHT VALUES TO CHARACTERS
+
 -Developer stats page IN SETTINGS MENU ( build version, date made , time ect.. )
+
 -rework death system, remove lives
+
 -redo 'guide', turn into tutorial?
+
 -add time and date to SAVE DATA
+
 -partners you can purchase with coins (abilities)
--remove F abilities
+
 -hall of fame purchase
+
 -60FPS mode?
+
 -change leaf effect
+
 -fix donkey kong blue pipe room
+
 -dont allow changing character when in air
+
 -re-do some UI
+
 -water falls are buggy fix them
+
 -Text system 
    -> little mario emojis in the text systems
+   
 -redo cutscene
+
 -redo door assets
+
 -implement the galaxy hover sounds :D
+
 -mario trampoline game
+
 -implement credits
+
 -redo cloud variables
 
-15,607 BLOCKS
+15,607 BLOCKS v0.6.6
 
 -Reworked all audio, it should be higher quality (without inflating the file size) and loops properly
 -Made some objects (especially UI) sharper
@@ -40,6 +59,7 @@ IDEAS:
 -Tweaked menus
 -Reworked 'objectives' system, more objects are shown to you in the menu gradually as you unlock more -- 5 are shown at the start of the game
 -Tweaked backdrops
+-Removed F abilities
 -Fixed some UI layering issues
 -Reworked input system (now uses a list format)
 -Fixed UI jiddering in pause menu
