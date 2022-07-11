@@ -52,6 +52,8 @@ Studio - https://scratch.mit.edu/studios/4049336/
 
 -Rework all audio, it should be higher quality (without inflating the file size) and loops properly
 
+-Character change 'RANDOM' button is buggy
+
 ## Changelog ( done )
 
 -Made some objects (especially UI) sharper
